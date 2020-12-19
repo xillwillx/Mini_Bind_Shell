@@ -1,3 +1,7 @@
+Account moved to: https://gitlab.com/illwill 
+
+
+
 File     :    Mini Bind Shell
 
 Language :    Win32 ASM
